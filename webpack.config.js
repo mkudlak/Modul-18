@@ -1,0 +1,1 @@
+//Zacznijmy więc od skopiowania pliku webpack.config.js do katalogu głównego projektu. Następnie otworzymy plik i zmodyfikujemy wejście i wyjście z Webpacka.
